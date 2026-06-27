@@ -4,7 +4,7 @@ Public marketing site for **Sky Broadband** (React + Vite), deployed on **Vercel
 All content — text, logo, plans, offers/announcements, coverage areas,
 testimonials, FAQs, contact details and social links — is managed from the
 **ISP Billing app** and fetched live at runtime. The contact form delivers leads
-straight to WhatsApp.
+straight to WhatsApp.tft
 
 > Billing app / CMS repo: **https://github.com/itskillsdeveloper/ISP-Billing**
 
